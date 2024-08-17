@@ -1,4 +1,9 @@
 # Heart-disease-predictor
 
 
-This project is about the prediction of heart disease using machine learning models.
+Problem statement:
+In this project, I used machine learning models to predict whether a person has heart disease.
+This is a binary classification problem.
+I tried Logistic regression, K-nearest neighbor, and RandomForest classifier.
+
+
